@@ -8,9 +8,6 @@ Hello! I'm currently a Computer Science + Cognitive Science student @ UC Davis.<
 ![](https://github-readme-streak-stats.herokuapp.com/?user=atchiang&theme=react&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=atchiang&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=atchiang&limit=5&theme=onedark&combine_all_yearly_contributions=true)
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aidandundunnn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aidan-chiang-b211ab213) 
 
